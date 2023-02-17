@@ -31,7 +31,7 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+[![claudio-bianco](https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-bianco&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
