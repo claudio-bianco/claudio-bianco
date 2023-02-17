@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Experiência com os maiores provedores Cloud, como GCP, AWS e Azure. Prática com arquitetura Cloud, automação e otimização em missões críticas.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Contenização de software como Docker e ferramentas de orquestração de containers como Kubernetes.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Estratégias de deploy baseadas em Blue/Green e Canary.
 
 ----
 
@@ -49,9 +49,8 @@
 ---
 
 ## 💼 Onde me encontrar
-I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
-
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+Minhas certificações na [@credly](https://www.credly.com/users/claudio-martin-bianco/badges).
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudiombianco@gmail.com)](mailto:claudiombianco@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
 [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
