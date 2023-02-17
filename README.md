@@ -51,7 +51,7 @@
 ## 💼 Onde me encontrar
 Minhas certificações na [@credly](https://www.credly.com/users/claudio-martin-bianco/badges).
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudiombianco@gmail.com)](mailto:claudiombianco@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-claudiombianco@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudiombianco@gmail.com)](mailto:claudiombianco@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
 [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
