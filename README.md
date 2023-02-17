@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+## 💜 Olá, meu nome é <strong>Claudio Bianco!</strong>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
@@ -30,24 +30,17 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Minha conta GitHub
 [![claudio-bianco](https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-bianco&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
 ---
 
-## Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
-
----
-
-## About me
+## 💼 Onde me encontrar
 I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+
+[Website](https://fagnerpsantos.dev/) 💻 - Working on it.
