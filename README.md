@@ -33,8 +33,6 @@
 ## ⭐ Minha conta GitHub
 [![claudio-bianco](https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-bianco&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
 ---
 
 ## 💼 Onde me encontrar
@@ -44,3 +42,7 @@ I'm a {backend, frontend and mobile} developer and technical instructor at [@tre
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
 [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+
+---
+
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
