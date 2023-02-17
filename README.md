@@ -6,7 +6,19 @@
 
 > Faça uma breve aprensentação sobre você e a sua área.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+  </a>
+</p>
+
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
+  </a>
+</p>
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
