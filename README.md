@@ -52,6 +52,8 @@
 
 [![Oracle Cloud Infrastructure Foundations 2021 Associate](https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F91F41626A747C9EA6212668358610F695297DAA05358C37BE0A4D08B45505E2&fbclid=IwAR335iCjJrQckBqsSo4iGZjAMTrar0HYPDt4RvCWzd0Q0Eq90CvZF7LRaRg "Oracle Cloud Infrastructure Foundations 2021 Associate")
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="119216a2-ce6f-4fda-b39d-52f2744d79bc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 Minhas certificações na [@credly](https://www.credly.com/users/claudio-martin-bianco/badges).
 
 [![Gmail Badge](https://img.shields.io/badge/-claudiombianco@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudiombianco@gmail.com)](mailto:claudiombianco@gmail.com)
