@@ -54,31 +54,14 @@
 
 [![GitLab Certified Git Associate](https://images.credly.com/size/340x340/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png)](https://www.credly.com/badges/119216a2-ce6f-4fda-b39d-52f2744d79bc/public_url "GitLab Certified Git Associate")
 
-![My animated logo](assets/Alibaba_Cloud_Badge.png)
+// ![My animated logo](assets/Alibaba_Cloud_Badge.png)
 
-<p align="center"><a href="http://example.com" target="_blank">http://example.com</a>
-  <img src="assets/Alibaba_Cloud_Badge.png" width="250" title="hover text">
-  <a href="http://google.com.au/" target="_blank"> <img 
-       src="https://github.com/claudio-bianco/claudio-bianco/blob/main/assets/Alibaba_Cloud_Badge.png?raw=true" 
-       width="250" /> </a>
+<p align="center">
+  <a href="http://example.com" target="_blank">http://example.com</a>
+  <a href="http://google.com.au/" target="_blank"> 
+    <img src="assets/Alibaba_Cloud_Badge.png?raw=true" width="250" title="hover text">
+  </a>
 </p>
-
-(function() {
-  var links = document.getElementsByTagName('a');
-  for (var i = 0; i < links.length; i++) {
-    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
-      links[i].target = '_blank';
-    }
-  }
-})();
-
-[the rmarkdown website](https://rmarkdown.rstudio.com)
-
-![Alt text](assets/Alibaba_Cloud_Badge.png "Optional title")
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
-
-[Link](https://example.org/ "title" target="_blank")
 
 
 Minhas certificações na [@credly](https://www.credly.com/users/claudio-martin-bianco/badges).
