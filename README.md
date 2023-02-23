@@ -50,22 +50,26 @@
 
 ## 💼 Onde me encontrar
 
-[![Oracle Cloud Infrastructure Foundations 2021 Associate](https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F91F41626A747C9EA6212668358610F695297DAA05358C37BE0A4D08B45505E2&fbclid=IwAR335iCjJrQckBqsSo4iGZjAMTrar0HYPDt4RvCWzd0Q0Eq90CvZF7LRaRg "Oracle Cloud Infrastructure Foundations 2021 Associate")
-
-[![GitLab Certified Git Associate](https://images.credly.com/size/340x340/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png)](https://www.credly.com/badges/119216a2-ce6f-4fda-b39d-52f2744d79bc/public_url "GitLab Certified Git Associate")
-
 <p align="center">
   <a href="https://www.credly.com/badges/830bb9a8-33c3-4381-b2cb-527cf4382226/public_url" target="_blank"> 
     <img src="assets/aws-certified-cloud-practitioner.png?raw=true" width="250" title="hover text">
   </a>  
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F91F41626A747C9EA6212668358610F695297DAA05358C37BE0A4D08B45505E2&fbclid=IwAR335iCjJrQckBqsSo4iGZjAMTrar0HYPDt4RvCWzd0Q0Eq90CvZF7LRaRg" target="_blank"> 
-    <img src="assets/50_Oracle_Cloud_Infrastructure.jpg?raw=true" width="250" title="hover text">
+    <img src="assets/50_Oracle_Cloud_Infrastructure.jpg?raw=true" width="250" title="Oracle Cloud Infrastructure Foundations 2021 Associate">
   </a>
   <a href="https://edu.alibabacloud.com/course/7?spm=a2c4d.11423077.0.0.3a5f12dbLfKf5R" target="_blank"> 
     <img src="assets/Alibaba_Cloud_Badge.png?raw=true" width="250" title="hover text">
   </a>  
 </p>
 
+<p align="center">
+  <a href="https://www.credly.com/badges/119216a2-ce6f-4fda-b39d-52f2744d79bc/public_url" target="_blank"> 
+    <img src="assets/GitLab - GitLab Certified Associate - 2022-04-27.png?raw=true" width="250" title="GitLab Certified Git Associate">
+  </a>
+  <a href="https://edu.alibabacloud.com/course/7?spm=a2c4d.11423077.0.0.3a5f12dbLfKf5R" target="_blank"> 
+    <img src="assets/Alibaba_Cloud_Badge.png?raw=true" width="250" title="hover text">
+  </a>  
+</p>
 
 Minhas certificações na [@credly](https://www.credly.com/users/claudio-martin-bianco/badges).
 
