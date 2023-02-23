@@ -56,7 +56,7 @@
 
 ![My animated logo](assets/Alibaba_Cloud_Badge.png)
 
-<p align="center">
+<p align="center"><a href="http://example.com" target="_blank">http://example.com</a>
   <img src="assets/Alibaba_Cloud_Badge.png" width="250" title="hover text">
   <a href="http://google.com.au/" target="_blank"> <img 
        src="https://github.com/claudio-bianco/claudio-bianco/blob/main/assets/Alibaba_Cloud_Badge.png?raw=true" 
@@ -64,7 +64,7 @@
        title="hover text"/> </a>
 </p>
 
-![Alt text](/posts/path/to/img.jpg "Optional title")
+![Alt text](assets/Alibaba_Cloud_Badge.png "Optional title")
 
 Minhas certificações na [@credly](https://www.credly.com/users/claudio-martin-bianco/badges).
 
