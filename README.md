@@ -63,6 +63,17 @@
        width="250" /> </a>
 </p>
 
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+
+[the rmarkdown website](https://rmarkdown.rstudio.com)
+
 ![Alt text](assets/Alibaba_Cloud_Badge.png "Optional title")
 
 [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
