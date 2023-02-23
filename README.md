@@ -14,24 +14,22 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/830bb9a8-33c3-4381-b2cb-527cf4382226/public_url" target="_blank"> 
-    <img src="assets/aws-certified-cloud-practitioner.png?raw=true" width="200" title="hover text">
-  </a>  
+    <img src="assets/aws-certified-cloud-practitioner.png?raw=true" width="140" title="hover text">
+  </a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F91F41626A747C9EA6212668358610F695297DAA05358C37BE0A4D08B45505E2&fbclid=IwAR335iCjJrQckBqsSo4iGZjAMTrar0HYPDt4RvCWzd0Q0Eq90CvZF7LRaRg" target="_blank"> 
-    <img src="assets/50_Oracle_Cloud_Infrastructure.jpg?raw=true" width="200" title="Oracle Cloud Infrastructure Foundations 2021 Associate">
+    <img src="assets/50_Oracle_Cloud_Infrastructure.jpg?raw=true" width="140" title="Oracle Cloud Infrastructure Foundations 2021 Associate">
   </a>
   <a href="https://edu.alibabacloud.com/course/7?spm=a2c4d.11423077.0.0.3a5f12dbLfKf5R" target="_blank"> 
-    <img src="assets/Alibaba_Cloud_Badge.png?raw=true" width="200" title="hover text">
-  </a>  
+    <img src="assets/Alibaba_Cloud_Badge.png?raw=true" width="140" title="hover text">
+  </a>
+  <a href="https://www.credly.com/badges/119216a2-ce6f-4fda-b39d-52f2744d79bc/public_url" target="_blank"> 
+    <img src="assets/GitLab - GitLab Certified Associate - 2022-04-27.png?raw=true" width="140" title="GitLab Certified Git Associate">
+  </a>
+  <a href="https://edu.alibabacloud.com/course/7?spm=a2c4d.11423077.0.0.3a5f12dbLfKf5R" target="_blank"> 
+    <img src="assets/microsoft-certified-general-badge.png?raw=true" width="140" title="hover text">
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://www.credly.com/badges/119216a2-ce6f-4fda-b39d-52f2744d79bc/public_url" target="_blank"> 
-    <img src="assets/GitLab - GitLab Certified Associate - 2022-04-27.png?raw=true" width="200" title="GitLab Certified Git Associate">
-  </a>
-  <a href="https://edu.alibabacloud.com/course/7?spm=a2c4d.11423077.0.0.3a5f12dbLfKf5R" target="_blank"> 
-    <img src="assets/microsoft-certified-general-badge.png?raw=true" width="200" title="hover text">
-  </a>  
-</p>
 
 [@credly](https://www.credly.com/users/claudio-martin-bianco/badges).
 
@@ -54,16 +52,4 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-claudiombianco@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudiombianco@gmail.com)](mailto:claudiombianco@gmail.com)
 
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
-
-[Website](https://fagnerpsantos.dev/) 💻 - Working on it.
-
-----
-
-## 🚀 Automação Scripts
-
-[![My Skills](https://skillicons.dev/icons?i=py,nodejs,nginx,linux,jenkins,gitlab,ansible,bash,github,prometheus)](https://skillicons.dev)
-
----
-
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+[Website](https://claudio-bianco.github.io/) - Working on it.
