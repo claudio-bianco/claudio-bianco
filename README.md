@@ -67,7 +67,7 @@
     <img src="assets/GitLab - GitLab Certified Associate - 2022-04-27.png?raw=true" width="250" title="GitLab Certified Git Associate">
   </a>
   <a href="https://edu.alibabacloud.com/course/7?spm=a2c4d.11423077.0.0.3a5f12dbLfKf5R" target="_blank"> 
-    <img src="assets/Alibaba_Cloud_Badge.png?raw=true" width="250" title="hover text">
+    <img src="assets/microsoft-certified-general-badge.png?raw=true" width="250" title="hover text">
   </a>  
 </p>
 
