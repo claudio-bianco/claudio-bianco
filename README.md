@@ -64,7 +64,7 @@
        title="hover text"/> </a>
 </p>
 
-<a href="http://example.com" target="_blank">http://example.com</a>
+![Alt text](/posts/path/to/img.jpg "Optional title")
 
 Minhas certificações na [@credly](https://www.credly.com/users/claudio-martin-bianco/badges).
 
