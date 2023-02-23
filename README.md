@@ -57,7 +57,6 @@
 // ![My animated logo](assets/Alibaba_Cloud_Badge.png)
 
 <p align="center">
-  <a href="http://example.com" target="_blank">http://example.com</a>
   <a href="http://google.com.au/" target="_blank"> 
     <img src="assets/Alibaba_Cloud_Badge.png?raw=true" width="250" title="hover text">
   </a>
