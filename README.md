@@ -61,7 +61,7 @@
   <a href="http://google.com.au/" rel="some text"> <img 
        src="https://github.com/claudio-bianco/claudio-bianco/blob/main/assets/Alibaba_Cloud_Badge.png?raw=true" 
        width="250" 
-       alt="accessibility text"/> </a>
+       title="hover text"/> </a>
 </p>
 
 Minhas certificações na [@credly](https://www.credly.com/users/claudio-martin-bianco/badges).
