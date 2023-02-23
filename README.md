@@ -67,6 +67,8 @@ target="_blank"
 
 ![Alt text](assets/Alibaba_Cloud_Badge.png "Optional title")
 
+[link]([url](http://example.com)){:target="_blank"}
+
 Minhas certificações na [@credly](https://www.credly.com/users/claudio-martin-bianco/badges).
 
 [![Gmail Badge](https://img.shields.io/badge/-claudiombianco@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudiombianco@gmail.com)](mailto:claudiombianco@gmail.com)
