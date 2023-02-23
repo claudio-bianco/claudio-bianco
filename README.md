@@ -58,7 +58,12 @@
 
 <p align="center">
   <img src="assets/Alibaba_Cloud_Badge.png" width="250" title="hover text">
-  <img src="https://github.com/claudio-bianco/claudio-bianco/blob/main/assets/Alibaba_Cloud_Badge.png" width="250" alt="accessibility text">
+  <img 
+       src="https://github.com/claudio-bianco/claudio-bianco/blob/main/assets/Alibaba_Cloud_Badge.png" 
+       raw=true
+       width="250" 
+       alt="accessibility text"
+       style=“margin-right: 10px;”/>
 </p>
 
 Minhas certificações na [@credly](https://www.credly.com/users/claudio-martin-bianco/badges).
