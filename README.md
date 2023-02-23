@@ -54,6 +54,8 @@
 
 [![GitLab Certified Git Associate](https://images.credly.com/size/340x340/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png)](https://www.credly.com/badges/119216a2-ce6f-4fda-b39d-52f2744d79bc/public_url "GitLab Certified Git Associate")
 
+![My animated logo](assets/Alibaba_Cloud_Badge.png)
+
 Minhas certificações na [@credly](https://www.credly.com/users/claudio-martin-bianco/badges).
 
 [![Gmail Badge](https://img.shields.io/badge/-claudiombianco@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudiombianco@gmail.com)](mailto:claudiombianco@gmail.com)
