@@ -64,6 +64,8 @@
        title="hover text"/> </a>
 </p>
 
+<a href="http://example.com" target="_blank">http://example.com</a>
+
 Minhas certificações na [@credly](https://www.credly.com/users/claudio-martin-bianco/badges).
 
 [![Gmail Badge](https://img.shields.io/badge/-claudiombianco@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudiombianco@gmail.com)](mailto:claudiombianco@gmail.com)
