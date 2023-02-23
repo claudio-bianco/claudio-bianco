@@ -60,8 +60,7 @@
   <img src="assets/Alibaba_Cloud_Badge.png" width="250" title="hover text">
   <a href="http://google.com.au/" target="_blank"> <img 
        src="https://github.com/claudio-bianco/claudio-bianco/blob/main/assets/Alibaba_Cloud_Badge.png?raw=true" 
-       width="250" 
-       title="hover text"/> </a>
+       width="250" /> </a>
 </p>
 
 ![Alt text](assets/Alibaba_Cloud_Badge.png "Optional title")
