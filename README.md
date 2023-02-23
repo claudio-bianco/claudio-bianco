@@ -67,7 +67,7 @@ target="_blank"
 
 ![Alt text](assets/Alibaba_Cloud_Badge.png "Optional title")
 
-[link](http://example.com){:target="_blank"}
+[Hello, world!](http://example.com/){target="_blank"}
 
 Minhas certificações na [@credly](https://www.credly.com/users/claudio-martin-bianco/badges).
 
