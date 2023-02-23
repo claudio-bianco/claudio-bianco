@@ -1,4 +1,4 @@
-target="_blank"
+markdown: kramdown
 
 ## 💜 Olá, meu nome é <strong>Claudio Bianco!</strong>
 
@@ -67,14 +67,7 @@ target="_blank"
 
 ![Alt text](assets/Alibaba_Cloud_Badge.png "Optional title")
 
-<script>
-    var links = document.querySelectorAll( '.post-content a' );  
-    for (var i = 0, length = links.length; i < length; i++) {  
-        if (links[i].hostname != window.location.hostname) {
-            links[i].target = '_blank';
-        }
-    }
-</script>
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 [Link](https://example.org/ "title" target="_blank")
 
