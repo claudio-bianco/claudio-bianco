@@ -14,22 +14,22 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/830bb9a8-33c3-4381-b2cb-527cf4382226/public_url" target="_blank"> 
-    <img src="assets/aws-certified-cloud-practitioner.png?raw=true" width="250" title="hover text">
+    <img src="assets/aws-certified-cloud-practitioner.png?raw=true" width="200" title="hover text">
   </a>  
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F91F41626A747C9EA6212668358610F695297DAA05358C37BE0A4D08B45505E2&fbclid=IwAR335iCjJrQckBqsSo4iGZjAMTrar0HYPDt4RvCWzd0Q0Eq90CvZF7LRaRg" target="_blank"> 
-    <img src="assets/50_Oracle_Cloud_Infrastructure.jpg?raw=true" width="250" title="Oracle Cloud Infrastructure Foundations 2021 Associate">
+    <img src="assets/50_Oracle_Cloud_Infrastructure.jpg?raw=true" width="200" title="Oracle Cloud Infrastructure Foundations 2021 Associate">
   </a>
   <a href="https://edu.alibabacloud.com/course/7?spm=a2c4d.11423077.0.0.3a5f12dbLfKf5R" target="_blank"> 
-    <img src="assets/Alibaba_Cloud_Badge.png?raw=true" width="250" title="hover text">
+    <img src="assets/Alibaba_Cloud_Badge.png?raw=true" width="200" title="hover text">
   </a>  
 </p>
 
 <p align="center">
   <a href="https://www.credly.com/badges/119216a2-ce6f-4fda-b39d-52f2744d79bc/public_url" target="_blank"> 
-    <img src="assets/GitLab - GitLab Certified Associate - 2022-04-27.png?raw=true" width="250" title="GitLab Certified Git Associate">
+    <img src="assets/GitLab - GitLab Certified Associate - 2022-04-27.png?raw=true" width="200" title="GitLab Certified Git Associate">
   </a>
   <a href="https://edu.alibabacloud.com/course/7?spm=a2c4d.11423077.0.0.3a5f12dbLfKf5R" target="_blank"> 
-    <img src="assets/microsoft-certified-general-badge.png?raw=true" width="250" title="hover text">
+    <img src="assets/microsoft-certified-general-badge.png?raw=true" width="200" title="hover text">
   </a>  
 </p>
 
@@ -41,34 +41,7 @@
 
 ## 🚀 Minhas Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
-  </a>
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=py,nodejs,nginx,linux,jenkins,gitlab,ansible,bash,github,prometheus)](https://skillicons.dev)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
-  </a>
-</p>
-
-![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![image](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![image](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=Ansible&logoColor=white)
-![image](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
-![image](https://img.shields.io/badge/Istio-516BAA?style=for-the-badge&logo=istio&logoColor=white)
-![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-![image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![image](https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white)
-![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![image](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
-![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,py,nodejs,nginx,linux,jenkins,gitlab,ansible,bash,github,prometheus)](https://skillicons.dev)
 
 ---
 
