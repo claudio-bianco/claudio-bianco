@@ -25,7 +25,7 @@
   <a href="https://www.credly.com/badges/119216a2-ce6f-4fda-b39d-52f2744d79bc/public_url" target="_blank"> 
     <img src="assets/GitLab - GitLab Certified Associate - 2022-04-27.png?raw=true" width="140" title="GitLab Certified Git Associate">
   </a>
-  <a href="https://mcp.microsoft.com/Anonymous/Transcript/Validate" target="_blank"> 
+  <a href="https://learn.microsoft.com/en-us/users/claudiomartinbianco/transcript/dlrkxsyr5x582jn" target="_blank"> 
     <img src="assets/microsoft-certified-general-badge.png?raw=true" width="140" title="Microsoft Certified Professional">
   </a>
 </p>
